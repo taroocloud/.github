@@ -1,12 +1,12 @@
 # Dataku
 We understand that your data is your most valuable asset. That's why we're committed to providing you with secure, scalable, and customizable cloud storage solutions that meet your unique needs. Whether you're a small business, enterprise, or individual, we provide the flexibility you need to store, backup, and share your data with ease.
 
-Specializing in:
-✅ Streamlined file management and sharing
-✅ Intuitive collaboration tools
-✅ Automatic data backup and disaster recovery
-✅ Advanced security features
-✅ Customizable storage solutions
+Specializing in:  
+✅ Streamlined file management and sharing  
+✅ Intuitive collaboration tools  
+✅ Automatic data backup and disaster recovery  
+✅ Advanced security features  
+✅ Customizable storage solutions  
 
 Our intuitive user interface, powerful collaboration tools, and customizable storage solutions make it easy to store and share your files securely in the cloud. And with our automatic backup and disaster recovery capabilities, you'll never have to worry about losing your data again.
 
